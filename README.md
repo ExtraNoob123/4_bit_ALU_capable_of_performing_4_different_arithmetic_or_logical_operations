@@ -2,5 +2,6 @@
 
 460 Project
 
+Spring 2023
 A 4-bit ALU capable of performing 4 different arithmetic or logical operations using
 Quartus, implement it using Verilog HDL
